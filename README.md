@@ -67,7 +67,7 @@
 - **DArch: Dental Arch Prior-Assisted 3D Tooth Instance Segmentation With Weak Annotations (CVPR 2022)**\
 *Qiu, L., Ye, C., Chen, P., Liu, Y., Han, X., & Cui, S.*\
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Qiu_DArch_Dental_Arch_Prior-Assisted_3D_Tooth_Instance_Segmentation_With_Weak_CVPR_2022_paper.html)]
-- **Learning Affinity From Attention End-to-End Weakly-Supervised Semantic Segmentation With Transformers (CVPR 2022)**
+- [**Learning Affinity From Attention End-to-End Weakly-Supervised Semantic Segmentation With Transformers (CVPR 2022)**](https://github.com/nepersica/paper-summary/blob/master/weakly-supervised-learning/Learning%20Affinity%20From%20Attention%20End-to-End%20Weakly-Supervised%20Semantic%20Segmentation%20With%20Transformers.md)
 *Ru, L., Zhan, Y., Yu, B., & Du, B.*\
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ru_Learning_Affinity_From_Attention_End-to-End_Weakly-Supervised_Semantic_Segmentation_With_Transformers_CVPR_2022_paper.html)] [[Code](https://github.com/rulixiang/afa?utm_source=catalyzex.com)]
 
