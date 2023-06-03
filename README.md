@@ -94,3 +94,9 @@
 - **OSSO: Obtaining Skeletal Shape from Outside (CVPR 2022)**\
 *Keller, M., Zuffi, S., Black, M. J., & Pujades, S.*\
 [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Keller_OSSO_Obtaining_Skeletal_Shape_From_Outside_CVPR_2022_paper.html)] [[Code](https://github.com/MarilynKeller/OSSO)]
+
+### Transformer
+***
+- **Transmix: Attend to mix for vision transformers (CVPR 2022)**\
+*Chen, J. N., Sun, S., He, J., Torr, P. H., Yuille, A., & Bai, S.*\
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Chen_TransMix_Attend_To_Mix_for_Vision_Transformers_CVPR_2022_paper.html)] [[Code](https://github.com/Beckschen/TransMix?utm_source=catalyzex.com)]
